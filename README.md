@@ -2,7 +2,7 @@
 **GuessWord** is a simple interactive command-line game written in Python .
 The idea: the computer selects a random word from a list (technology + fruits and vegetables), and the player must guess it by entering letters.
 ____________________________________________
-#***Project features***
+# ***Project features***
 
 * Choose a random word from a ready list.
 
@@ -19,11 +19,14 @@ ____________________________________________
 * Wipe the screen after each attempt to display a clean interface.
 
 ______________________________________________
-#***How to Run ?***
+# ***How to Run ?***
+
 Run the game directly:
+
 'python guessword.py'
 ______________________________________________
-#***Running example***
+# ***Running example***
+
 Welcome to Guess the Word! 
 You have 10 attempts to guess the correct word.
 Words are from jobs, technology, and fruits/vegetables.
